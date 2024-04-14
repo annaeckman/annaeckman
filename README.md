@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help connecting with other teachers-turned-software-engineers as well as other women and gender non-conforming people in the tech industry! 
 - 💬 Ask me about the tiny house I built. 
 - 😄 Pronouns: they, them
-- ⚡ Fun fact: I've lived in all the water adjacent cities of the East Bay.
+- ⚡ Fun fact: I'm a twin!
 - you can reach me at my [linked in] (www.linkedin.com/in/annaeckm) or email me at [email](mailto:annaeckman@icloud.com)
 
