@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on completing the TripleTen software engineering bootcamp. 
-- 🌱 I’m currently learning JavaScript and just finished learning responsive design using CSS. 
+- 🌱 I’m currently learning JavaScript classes and just refactored a project from a function approach to a class approach
 - 🤔 I’m looking for help connecting with other teachers-turned-software-engineers as well as other women and gender non-conforming people in the tech industry! 
 - 💬 Ask me about the tiny house I built. 
 - 😄 Pronouns: they, them
