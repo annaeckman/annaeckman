@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on my final project in the TripleTen software engineering bootcamp. 
+- 🔭 I’m currently working on finding a full stack developer job after graduating from the TripleTen Software Engineering Program!
 - 🌱 I’m learning React, Node.js, and p5.js
-- 🤔 I’m looking for help connecting with people developing ed technology especially inspiring math content as well as other gender non-conforming people in the tech industry! 
+- 🤔 I’m looking for a job, ideally in the edtech, web-based math instruction world! Please reach out!
 - 💬 Ask me about the tiny house I built!
 - 😄 Pronouns: they, them
 - ⚡ Fun fact: I'm a twin.
